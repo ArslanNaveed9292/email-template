@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+table{
+    width: 640px;
+    margin: auto;
+    text-align: center;
+}
+.day{
+    height: 29px;
+    font-size: 28px;
+    text-transform: uppercase;
+    caret-color: #333333;
+    color: #00c4cc;
+    margin-bottom: 20px;
+}
+h1{
+    font-size: 48px;
+    color: #fff;
+    font-family: sans-serif;
+}
+button{
+    background-color: #ff879e;
+    width: 170px;
+    border-radius: 32px;
+    border: none;
+    color: #fff;
+    font-weight: bolder;
+    font-size: 22px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.TIME{
+    color: #00c4cc;
+    font-family: sans-serif;
+    font-size: 37px;
+}
+.MOM{
+    width: 100%;
+    text-align: center;
+}
+.Look{
+    width: 640px;
+    padding: 20px 0;
+}
+.CODE{
+    color: #00c4cc;
+    font-size: 24px;
+}
+.SHOP{
+    background-color: #ff879e;
+    width: 170px;
+    border-radius: 32px;
+    border: none;
+    color: #fff;
+    font-weight: bolder;
+    font-size: 19px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.lang{
+    width: 640px;
+    padding: 20px 0;
+    margin: auto;
+}
